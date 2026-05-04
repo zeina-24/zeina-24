@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ahmed%20Hossam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%202%20@%20noon&descAlignY=51&descAlign=62" width="100%"/>
-</div>
 
 
 
