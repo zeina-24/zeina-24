@@ -81,9 +81,7 @@ Tools
     <img src="https://github-readme-streak-stats.herokuapp.com?user=zeina-24&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=zeina-24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeina-24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  
 </div>
 <br/>
 
